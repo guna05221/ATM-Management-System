@@ -162,11 +162,11 @@ Display Result
 
 ### Deposit Amount
 
-![Deposit](screenshots/deposit.png)
+![Deposit](screenshots/deposit-amount.png)
 
 ### Withdraw Amount
 
-![Withdraw](screenshots/withdraw.png)
+![Withdraw](screenshots/withdraw-amount.png)
 
 ### Check Balance
 
