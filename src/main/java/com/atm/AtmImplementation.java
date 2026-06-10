@@ -15,8 +15,8 @@ public class AtmImplementation implements IAtm {
     public Connection createConnection() {
 
         String url = "jdbc:mysql://localhost:3306/atm_management";
-        String user = "root";
-        String password = "1234";
+        String user = "[DB_NAME]";
+        String password = "[DB_PASSWORD]";
 
         Connection con = null;
 
